@@ -1,0 +1,22 @@
+.menu {
+    background-color: blueviolet;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    background-color: white;
+    color:blueviolet;
+}
+
+.menu ul { 
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu li {
+    list-style: none;
+}
